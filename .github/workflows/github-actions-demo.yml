@@ -26,3 +26,6 @@ jobs:
     - name: Run python application
       run: |
         python plik1.py
+        python plik2.py
+        python plik3.py
+
